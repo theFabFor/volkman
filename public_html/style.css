@@ -1,0 +1,57 @@
+a:link {
+	color:#666666;
+	background:transparent;
+	font-family: "Trebuchet MS", Verdana, Arial;
+	font-size: 14px;
+}
+
+a:visited {
+	color:#CC0000;
+	background:transparent;
+	font-family: "Trebuchet MS", Verdana, Arial;
+	font-size: 14px;
+}
+
+a:active {
+	color:#CC0000;
+	background:transparent;
+	font-family: "Trebuchet MS", Verdana, Arial;
+	font-size: 14px;
+}
+.bodytext {
+	font-family: "Trebuchet MS", Verdana, Arial;
+	font-size: 14px;
+	color: #666666;
+	line-height: normal;
+}
+.bodyheader {
+	font-family: "Trebuchet MS", Verdana, Arial;
+	font-size: 24px;
+	font-weight: normal;
+	color: #003366;
+}
+.topmenu {
+	font-family: "Trebuchet MS", Verdana, Arial;
+	font-size: 14px;
+	color: #FFCC00;
+	font-weight: bold;
+	text-transform: capitalize;
+	font-variant: normal;
+	line-height: 20px;
+	text-decoration: none;
+}
+.bottomtext {
+	font-family: "Trebuchet MS", Verdana, Arial;
+	font-size: 11px;
+	color: #C0C0C0;
+	font-weight: bold;
+	text-transform: capitalize;
+	font-variant: normal;
+	line-height: 20px;
+}
+.bodytext2 {
+	font-family: "Trebuchet MS", Verdana, Arial;
+	font-size: 16px;
+	color: #666666;
+	font-weight: normal;
+}
